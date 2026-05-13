@@ -1,6 +1,6 @@
 # 🐍 100 Days of Code — The Complete Python Pro Bootcamp
 
-![Days Completed](https://img.shields.io/badge/Days%20Completed-12%2F100-blue)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-13%2F100-blue)
 
 ![Course](https://img.shields.io/badge/Course-Dr.%20Angela%20Yu-orange)
 ![Platform](https://img.shields.io/badge/Platform-Udemy-red)
@@ -28,8 +28,9 @@ A daily coding challenge where I build one Python project every day for 100 days
 | ✅ Day 10 | [Calculator](./Day%2010/) | Functions with Outputs, Recursion |
 | ✅ Day 11 | [Blackjack ♠️](./Day%2011/) | Capstone Project — OOP, Game Logic, Lists |
 | ✅ Day 12 | [Number Guessing Game](./Day%2012/) | Scope, Local vs Global Variables |
-| 🔄 Day 13 | Coming soon... | Debugging |
-| ⏳ Days 14–100 | In progress... | |
+| ✅ Day 13 | [Debugging](./Day%2013/) | Debugging Techniques, Finding & Fixing Errors |
+| 🔄 Day 14 | Coming soon... | Higher Lower Game, Files |
+| ⏳ Days 15–100 | In progress... | |
 
 ---
 
@@ -80,7 +81,6 @@ The Day 11 capstone project is a fully functional Blackjack game built in Python
 
 I'm Jose Bermudez, a developer building my Python skills one project at a time. I commit to this repo daily as part of the #100DaysOfCode challenge.
 
-- 🐦 Follow my progress on LinkedIn
 - 💻 New project every day
 
 ---
