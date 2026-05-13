@@ -1,5 +1,7 @@
 def my_function():
-    for i in range(1, 20):
+    for i in range(1, 21):
+        #The for loop is iterating through a range from 1 to 20, the if is supposed to print once the value of i reaches 20, but in a range function, i never reaches the top range
+        #To make the "if" to be reproduced, we will increase the value to 21
         if i == 20:
             print("You got it")
 
