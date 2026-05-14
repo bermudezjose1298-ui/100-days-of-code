@@ -81,7 +81,6 @@ The Day 11 capstone project is a fully functional Blackjack game built in Python
 
 I'm Jose Bermudez, a developer building my Python skills one project at a time. I commit to this repo daily as part of the #100DaysOfCode challenge.
 
-- 🐦 Follow my progress on LinkedIn
 - 💻 New project every day
 
 ---
