@@ -1,6 +1,6 @@
 # 🐍 100 Days of Code — The Complete Python Pro Bootcamp
 
-![Days Completed](https://img.shields.io/badge/Days%20Completed-14%2F100-blue)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-15%2F100-blue)
 
 ![Course](https://img.shields.io/badge/Course-Dr.%20Angela%20Yu-orange)
 ![Platform](https://img.shields.io/badge/Platform-Udemy-red)
@@ -30,7 +30,8 @@ A daily coding challenge where I build one Python project every day for 100 days
 | ✅ Day 12 | [Number Guessing Game](./Day%2012/) | Scope, Local vs Global Variables |
 | ✅ Day 13 | [Debugging](./Day%2013/) | Debugging Techniques, Finding & Fixing Errors |
 | ✅ Day 14 | [Higher or Lower Game](./Day%2014/) | Functions, Return Values, Game Loops, Random, Data Structures |
-| ⏳ Days 15–100 | In progress... | |
+| ✅ Day 15 | [Coffee Machine](./Day%2015/) | Functions, Dictionaries, While Loops, OOP Intro |
+| ⏳ Days 16–100 | In progress... | |
 
 ---
 
