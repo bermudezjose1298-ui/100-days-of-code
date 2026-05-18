@@ -1,6 +1,6 @@
 # 🐍 100 Days of Code — The Complete Python Pro Bootcamp
 
-![Days Completed](https://img.shields.io/badge/Days%20Completed-16%2F100-blue)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-17%2F100-blue)
 
 ![Course](https://img.shields.io/badge/Course-Dr.%20Angela%20Yu-orange)
 ![Platform](https://img.shields.io/badge/Platform-Udemy-red)
@@ -32,11 +32,14 @@ A daily coding challenge where I build one Python project every day for 100 days
 | ✅ Day 14 | [Higher or Lower Game](./Day%2014/) | Functions, Return Values, Game Loops, Random, Data Structures |
 | ✅ Day 15 | [Coffee Machine](./Day%2015/) | Functions, Dictionaries, While Loops, OOP Intro |
 | ✅ Day 16 | [OOP — Coffee Machine Refactor](./Day%2016/) | Classes, Objects, OOP Principles, Modules, PrettyTable |
-| ⏳ Days 17–100 | In progress... | |
+| ✅ Day 17 | [Quiz Game](./Day%2017/) | OOP, Classes, Encapsulation, Separation of Concerns |
+| ⏳ Days 18–100 | In progress... | |
 
 ---
 
-## 🚀 Featured Project — Blackjack (Day 11)
+## 🚀 Featured Projects
+
+### Blackjack (Day 11)
 
 The Day 11 capstone project is a fully functional Blackjack game built in Python.
 
@@ -48,6 +51,18 @@ The Day 11 capstone project is a fully functional Blackjack game built in Python
 - Clean terminal UI with ASCII art
 
 **Concepts applied:** Lists, functions, conditionals, loops, randomisation, game state management.
+
+### Quiz Game (Day 17)
+
+A True/False quiz game built with full OOP architecture using multiple classes across separate modules.
+
+**Features:**
+- `Question` model class to store question text and answer
+- `QuizBrain` class to drive game logic — tracking score, cycling questions, and checking answers
+- Questions loaded from a data module and converted into objects dynamically
+- Tracks and displays running score after each question
+
+**Concepts applied:** OOP, classes, encapsulation, separation of concerns, list iteration, string methods.
 
 ---
 
